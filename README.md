@@ -1,4 +1,4 @@
-<h2><p align="center">US Healthcare Data Analysis & Dashboard</p></h2>
+<h2><p align="center">Healthcare Data Analysis & Excel Dashboard for Patient Insights</p></h2>
 
 <h3>📊 Project Overview</h3>
 
